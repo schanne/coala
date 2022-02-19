@@ -30,3 +30,5 @@ pip<10
 six>=1.11.0
 wheel~=0.29
 testfixtures~=5.3.1
+ipython>=7.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
