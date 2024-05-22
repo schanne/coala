@@ -7,6 +7,6 @@ git+https://gitlab.com/jayvdb/package_manager#egg=dependency-management-0.5.0.de
 packaging>=16.8
 Pygments~=2.1
 PyPrint~=0.2.6
-requests~=2.12
+requests~=2.32.0
 setuptools>=21.2.2
 unidiff~=0.5.2
